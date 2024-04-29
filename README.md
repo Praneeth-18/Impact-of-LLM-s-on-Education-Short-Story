@@ -4,7 +4,7 @@
 
 [SlideShare Link](https://www.slideshare.net/slideshow/role-of-llms-in-education-short-storypptx/267603926)
 
-[YouTube Link]()
+[YouTube Link](https://youtu.be/-G8MgSUS740)
 
 # Impact of Large Language Models on Education
 
