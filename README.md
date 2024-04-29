@@ -1,10 +1,12 @@
 
 
-[Medium Article](https://medium.com/@saipraneethk181200/impact-of-large-language-models-on-education-e37c9fa4899f)
+
 
 [SlideShare Link](https://www.slideshare.net/slideshow/role-of-llms-in-education-short-storypptx/267603926)
 
 [YouTube Link](https://youtu.be/-G8MgSUS740)
+
+[Medium Article](https://medium.com/@saipraneethk181200/impact-of-large-language-models-on-education-e37c9fa4899f)
 
 # Impact of Large Language Models on Education
 
